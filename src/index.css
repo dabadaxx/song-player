@@ -1,0 +1,16 @@
+#root {
+  height: 100vh;
+  margin: 0 auto;
+  font-family: "Lato", sans-serif;
+  display: flex;
+  background-image: linear-gradient(
+    0deg,
+    #cfa1e6 23.8%,
+    rgb(237, 221, 240) 92%
+  );
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  /* -moz-osx-font-smoothing: grayscale; */
+}
